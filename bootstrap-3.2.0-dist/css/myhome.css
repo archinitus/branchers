@@ -89,6 +89,19 @@ body{
 .glyphicon-chevron-right:before {
 	content: "";
 }
+
+.bannerHMP {
+	position: absolute;
+	bottom: 10%;
+	left: 50%;
+	z-index: 15;
+	width: 60%;
+	padding-left: 0;
+	margin-left: -30%;
+	text-align: center;
+	list-style: none;
+}
+
 /*mobile*/
 @media (min-width: 321px) {
 	.crsBoxHmp{
