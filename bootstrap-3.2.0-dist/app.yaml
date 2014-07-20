@@ -7,7 +7,7 @@ handlers:
 - url: /css
   static_dir: css
 
-- url: /(.*\.(jpg|png))
+- url: /img/(.*\.(jpg|png))
   mime_type: image/png
   static_files: img/\1
   upload: img/(.*\.(jpg|png))

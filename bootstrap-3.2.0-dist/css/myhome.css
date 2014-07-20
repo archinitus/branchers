@@ -477,17 +477,17 @@ body{
 }
 
 .mainBoxDivHMP.first{
-	background-image: url('../read2.jpg');
+	background-image: url('../img/read2.png');
 	background-size: 100%;
 }
 
 .mainBoxDivHMP.second{
-	background-image: url('../assume2.jpg');
+	background-image: url('../img/assume2.png');
 	background-size: 100%;
 }
 
 .mainBoxDivHMP.third{
-	background-image: url('../writer2.jpg');
+	background-image: url('../img/writer2.png');
 	background-size: 100%;
 }
 
